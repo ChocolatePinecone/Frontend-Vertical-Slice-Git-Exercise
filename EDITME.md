@@ -8,4 +8,4 @@
 6. Commit the staged change and check if it was indeed committed
 7. Push the commit to the remote repo
 8. Check out your branch and pushed code in the remote repo
-9. Create a merge request in GitHub
+9. Create a pull request in GitHub
